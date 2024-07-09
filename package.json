@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^5.2.2",
     "@eslint/config-array": "^0.17.0",
     "@eslint/object-schema": "^2.1.4",
     "babel-plugin-react-compiler": "^0.0.0-experimental-696af53-20240625",
