@@ -17,11 +17,13 @@
     "glob": "^9.3.5",
     "lru-cache": "^10.4.0",
     "next": "15.0.0-rc.0",
+    "next-cloudinary": "^6.7.0",
     "prisma": "^5.16.2",
     "react": "19.0.0-rc-f994737d14-20240522",
     "react-dom": "19.0.0-rc-f994737d14-20240522",
     "rimraf": "^4.4.1",
-    "svix": "^1.25.0"
+    "svix": "^1.25.0",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "^20.14.10",
